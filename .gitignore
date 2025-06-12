@@ -1,0 +1,17 @@
+# Never track these
+*.key
+*.pem
+*.crt
+*.env
+*.secrets
+*.asc
+id_rsa*
+id_ecdsa*
+id_ed25519*
+config.json
+.cache/
+.local/
+.ssh/
+gnupg/
+secrets/
+*.bak
